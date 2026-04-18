@@ -1,4 +1,4 @@
-# 🎓 Canizares - Scholarship Management System
+# 🎓 Rosalada - Scholarship Management System
 
 <div align="center">
 
@@ -20,7 +20,7 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" style="border-radius: 50%;"/>
       <br />
-      <strong>Juluis Steven M. Cañizares</strong>
+      <strong>Jeymark S. Rosalada</strong>
       <br />
       <em>BSIT - 2D</em>
       <br />
@@ -167,7 +167,7 @@
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/your-username/yalung-scholarship.git
+git clone https://github.com/your-username/rosalada-scholarship.git
 cd canizares-scholarship
 ```
 
@@ -185,7 +185,7 @@ php artisan key:generate
 ### Step 4 — Set up your database
 Open `.env` and update:
 ```env
-DB_DATABASE=Canizares
+DB_DATABASE=Rosalada
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -346,4 +346,4 @@ The API is now running at `http://localhost:8000`
 
 This project is developed for academic purposes at **St. Cecilia's College-Cebu, Inc.**
 
-© 2026 Juluis Steven M. Canizares — BSIT 2-D
+© 2026 Jeymark S. Rosalada — BSIT 2-D
